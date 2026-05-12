@@ -41,6 +41,14 @@ Ejemplos
 6 → 720
 0 → 1
 
+<img width="1366" height="610" alt="image" src="https://github.com/user-attachments/assets/7abfa43f-506a-4c86-a0df-e9d242b624a2" />
+
+<img width="1366" height="595" alt="image" src="https://github.com/user-attachments/assets/9487598f-89b5-4e91-8ec5-24fa9b07289b" />
+
+<img width="1366" height="560" alt="image" src="https://github.com/user-attachments/assets/52c8032a-ca00-463b-abb7-4e2a5b8e24dd" />
+
+<img width="1356" height="553" alt="image" src="https://github.com/user-attachments/assets/b7b8e272-8607-459d-90a7-c5335639cb34" />
+
 
 Archivos
 
